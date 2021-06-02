@@ -32,8 +32,11 @@ layout: default
 
 ### Week 4 - 3/15
 
-### Week 3 - 3/8
+### Week 3 - 3/8 - Basic, list, and dict
+- [Colab - P02 basic](https://colab.research.google.com/github/P4CSS/PSS/blob/master/P02_basic_blank.ipynb)
+- [Colab - P03 list dictionary](https://colab.research.google.com/github/P4CSS/PSS/blob/master/P03_list_dictionary_blank.ipynb)
 
-### Week 2 - 3/1
+### Week 2 - 3/1 - Counting
+- [Colab - P01 counting](https://colab.research.google.com/github/P4CSS/PSS/blob/master/P01_counting.ipynb)
 
-### Week 1 - 2/22
+### Week 1 - 2/22 - Course Overview

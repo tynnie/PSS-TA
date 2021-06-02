@@ -1,5 +1,5 @@
 ---
-layout: layout: default
+layout: default
 ---
 
 # 1092 社會科學程式設計

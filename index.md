@@ -1,12 +1,9 @@
 ---
-layout: page
-title: "1092_PSS_TA"
-permalink: /
+layout: layout: default
 ---
 
 # 1092 社會科學程式設計
 > NTU 1092 Programming for Social Science
-
 
 ## Syllabus
 

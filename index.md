@@ -3,7 +3,7 @@ layout: default
 ---
 
 # 1092 社會科學程式設計
-> NTU 1092 Programming for Social Science
+# NTU 1092 Programming for Social Science
 
 ## Syllabus
 

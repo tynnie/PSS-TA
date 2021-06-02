@@ -1,5 +1,7 @@
 ---
 layout: page
+title: "1092_PSS_TA"
+permalink: /
 ---
 
 # NTU

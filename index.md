@@ -10,6 +10,7 @@ layout: default
 - [Syllabus](https://docs.google.com/document/d/1fa8L6MwW5BPGEsa0KlUUWebIdrCTMiHbbkEemsG_3eM/edit#heading=h.kk1966kbedef)
 - [Course Materials - Github P4CSS/PSS](https://github.com/P4CSS/PSS)
 - [Q&A - FB Group PSS1092-社會科學程式設計](https://www.facebook.com/groups/ntupss/)
+- Slides - NTU COOL
 
 ## Week 15 - 5/31 - Classification
 - [Colab - TM07 doc classification](https://colab.research.google.com/github/P4CSS/PSS/blob/master/TM07_doc_classification.ipynb)

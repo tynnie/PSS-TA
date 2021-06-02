@@ -4,9 +4,8 @@ title: "1092_PSS_TA"
 permalink: /
 ---
 
-# NTU
 # 1092 社會科學程式設計
-# Programming for Social Science
+> NTU 1092 Programming for Social Science
 
 
 ## Syllabus

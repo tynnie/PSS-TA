@@ -42,7 +42,7 @@ layout: default
 - [Colab - P08 PTTCrawler](https://colab.research.google.com/github/P4CSS/PSS/blob/master/P08p_PTTCrawler.ipynb)
 - [Colab - P09 Scraping with Cookie and POST](https://colab.research.google.com/github/P4CSS/PSS/blob/master/P09 Scraping with Cookie and POST.ipynb)
 - [Colab - AS#5 Web Scraping II](https://colab.research.google.com/github/P4CSS/PSS/blob/master/AS/AS05p_ibon_Scraper.ipynb)
-- [Colab - AS#5 Web Scraping II Solution (TA)](https://colab.research.google.com/github/P4CSS/PSS/blob/master/AS/AS05p_ibon_Scraper_suggested_solutions.ipynb)
+- [Colab - AS#5 Web Scraping II Solution (TA)](https://colab.research.google.com/github/tynnie/PSS-TA/blob/master/TA/AS05p_ibon_Scraper_suggested_solutions.ipynb)
 
 ## Workshop - 4/11
 
